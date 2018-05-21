@@ -1,0 +1,22 @@
+{
+  "name": "podExample",
+  "version": "0.1.0",
+  "summary": "A short description of podExample.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/alfrej/podExample",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "alfrej": "avillarino@fiveflamesmobile.com"
+  },
+  "source": {
+    "git": "https://github.com/alfrej/podExample.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "podExample/Classes/**/*"
+}
